@@ -1,0 +1,20 @@
+# Dependencias para Programación Musical con Python - 2º Trimestre
+# Instalar con: pip install -r requirements.txt
+
+# Análise e manipulación de partituras (música simbólica)
+music21
+
+# Análise de audio e procesamento de sinal
+librosa
+
+# Lectura/escritura de ficheiros de audio
+soundfile
+
+# Manipulación de ficheiros MIDI
+pretty_midi
+
+# Cálculo numérico
+numpy
+
+# Visualización de datos e gráficos
+matplotlib

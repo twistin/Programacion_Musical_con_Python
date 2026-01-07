@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos multimedia grandes (non se versionan)
+*.wav
+*.mp3
+*.mid
+*.midi
+
+# Outros
+*.pdf
+*.zip
